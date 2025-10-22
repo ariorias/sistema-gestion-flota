@@ -1,5 +1,8 @@
-streamlit==1.29.0
-pandas==2.2.1
-numpy==1.26.4
-openpyxl
-plotly-express
+# Dependencias esenciales
+streamlit==1.28.0
+plotly==6.3.1
+pandas==2.0.0
+numpy==1.24.0
+sqlalchemy==2.0.0
+python-dateutil==2.8.0
+openpyxl==3.1.0
